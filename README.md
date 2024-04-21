@@ -12,7 +12,7 @@ Las tres técnicas asignadas para la realización de esta actividad son:
 * Matrix Plot
 * Rose Chart
 
-Mediante estas técnicas, se han realizado tres visualizaciones mediante python y plotly que están accesibles en el sitio de GitHub Pages : https://i-roda.github.io/visualizacion_PEC2/
+Mediante estas técnicas, se han realizado tres visualizaciones, mediante python y la librería plotly, que están accesibles en el sitio de GitHub Pages : https://i-roda.github.io/visualizacion_PEC2/
 
 ## Datasets
 Para el *area chart* y el *rose chart* se ha utilizado un dataset con el número de parados en España procedente del Instituto Nacional de Estadística ([link](https://www.ine.es/jaxiT3/Tabla.htm?t=4084&L=0))
